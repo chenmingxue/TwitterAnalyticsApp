@@ -1,5 +1,5 @@
-cons_tok='YRGPYxGZePVLlMuTcKMMlSBgt'     #consumer token
-cons_sec='RdcY04wS3eDb9zdkZwLhuXFIyPIhlELtiydfH3OX7pTJLJeQVC'     #consumer secret
+cons_tok='string1'     #consumer token
+cons_sec='string2'     #consumer secret
 
-app_tok='1127819119552630784-o29BzIYB41dYOXMvZAkYEa2ngwh9Yr'      #app token
-app_sec='dm1eu9Ea08jAqRNXIzNSwaqEOfzbSkwHZsGEgGJk1Tllo'      #app secret
+app_tok='string3'      #access token
+app_sec='string4'      #access secret
